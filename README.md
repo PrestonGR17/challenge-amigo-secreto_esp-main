@@ -63,7 +63,7 @@ PrestonGR17
 
 GitHub: @PrestonGR17
 
-LinkedIn: [(Agrega aquí tu URL de LinkedIn si lo deseas)](https://www.linkedin.com/in/irving-servando-garc%C3%ADa-ramos-5735abaa/)
+LinkedIn: https://www.linkedin.com/in/irving-servando-garc%C3%ADa-ramos-5735abaa/
 
 
 
