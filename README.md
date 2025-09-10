@@ -42,6 +42,7 @@ Abre el archivo index.html en tu navegador web preferido.
 <h2 align="center">Uso del Challenge.</h2>  
 <img width="1107" height="692" alt="image" src="https://github.com/user-attachments/assets/94f31388-14dc-49a7-805b-c126a33f4abd" />
 
+![Demo del Amigo Secreto](assets/gifs.gif)
 
 ¡Y listo! Ya puedes empezar a agregar participantes y realizar tu sorteo.
 
